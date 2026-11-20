@@ -101,9 +101,7 @@ Use the node type that matches the server you are connecting to. Protocol suppor
 
 ## Examples
 
-- [`examples/amberlink-client/`](./examples/amberlink-client/) — client initialization example.
-- [`examples/amberlink-server/`](./examples/amberlink-server/) — server setup notes.
-- [`examples/`](./examples/) — example index.
+- [`examples/amberlink-client/`](./examples) — client initialization example.
 
 
 ## Development
